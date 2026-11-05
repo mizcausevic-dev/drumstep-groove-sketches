@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:02.981510+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z3801-drumstep-groove-sketches-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "ab18a79bf00c09087594040dd9835436cb7d4990657524599cf56a9f065a8b68",
+      "errors": []
+    },
+    {
+      "path": "midi/z3801-drumstep-groove-sketches-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "bbed8ffdbfbc896adf2eecbbc59ef1c62b5206ed552f04c8f14cd61ae5a36722",
+      "errors": []
+    },
+    {
+      "path": "midi/z3801-drumstep-groove-sketches-opening/drums.mid",
+      "bytes": 2674,
+      "sha256": "dcc45e72bdc353330079e29229c6e8d7ae7d3c97efe04a11e4541c1ec62f6b49",
+      "errors": []
+    },
+    {
+      "path": "midi/z3801-drumstep-groove-sketches-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "612afad778ce1933171e38040a5b036d2d4c5b1959a6f0f0f03351cb9674b7a6",
+      "errors": []
+    },
+    {
+      "path": "midi/z3801-drumstep-groove-sketches-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "a91f42b9f0d925be953c84619981b1f0aa6651c0fc3159b05351d527c3c1847a",
+      "errors": []
+    },
+    {
+      "path": "midi/z3801-drumstep-groove-sketches-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "760d3148bf5988e74ebb7b08f8e3217d4253649c21606ce2b7887fe696a7f856",
+      "errors": []
+    },
+    {
+      "path": "midi/z3801-drumstep-groove-sketches-opening/z3801-drumstep-groove-sketches-opening-combined.mid",
+      "bytes": 5708,
+      "sha256": "45352cd24d334954336a08305302fef8a1a7b6001941ec803a5db2838c9a0e75",
+      "errors": []
+    },
+    {
+      "path": "midi/z3802-drumstep-groove-sketches-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "528c19c50e5d71839819dfcc6c9a2c20f1b06088a125bc6032b40d189581cce2",
+      "errors": []
+    },
+    {
+      "path": "midi/z3802-drumstep-groove-sketches-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "69d4b2c5da3a5733a67e2eb758fadeb06cafef644f4367c43d991bcab9067de5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3802-drumstep-groove-sketches-variation/drums.mid",
+      "bytes": 2674,
+      "sha256": "dcc45e72bdc353330079e29229c6e8d7ae7d3c97efe04a11e4541c1ec62f6b49",
+      "errors": []
+    },
+    {
+      "path": "midi/z3802-drumstep-groove-sketches-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "9dc9ab7ede7e1084121c8fd5b89126cf470c2355264757f6a122d7f3906fd772",
+      "errors": []
+    },
+    {
+      "path": "midi/z3802-drumstep-groove-sketches-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "62e6f5650c66dbe41d9ea5c0bf827f116181af632eb839d88cf93243994ba918",
+      "errors": []
+    },
+    {
+      "path": "midi/z3802-drumstep-groove-sketches-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "249d25293f757612677134dd349c1bed7aca5dc951b0196dc549ad72f38087b5",
+      "errors": []
+    },
+    {
+      "path": "midi/z3802-drumstep-groove-sketches-variation/z3802-drumstep-groove-sketches-variation-combined.mid",
+      "bytes": 5708,
+      "sha256": "9fe73a3354a11bb2f4740abbe2a55d5d9e41c9ea3b9864cc7890be62983ef44e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3803-drumstep-groove-sketches-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "55eaedbccb26c8c1063a64dd40a9c5ffa2755456b3bd91df9ad5231264bc42fe",
+      "errors": []
+    },
+    {
+      "path": "midi/z3803-drumstep-groove-sketches-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "02b35457e5d36a60bc6fa28b421d7fd66ebdb3ead8612510b097b62f5fa2d902",
+      "errors": []
+    },
+    {
+      "path": "midi/z3803-drumstep-groove-sketches-contrast/drums.mid",
+      "bytes": 2674,
+      "sha256": "dcc45e72bdc353330079e29229c6e8d7ae7d3c97efe04a11e4541c1ec62f6b49",
+      "errors": []
+    },
+    {
+      "path": "midi/z3803-drumstep-groove-sketches-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "be0d56eef8d0921d53f65e2ed126e9c851403b6647c6a1632e1bc32b524e181d",
+      "errors": []
+    },
+    {
+      "path": "midi/z3803-drumstep-groove-sketches-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "5173c77c4d418e35dc10caef2f1dd5b8eaf52870a287d1ff134c22f3589e2ef1",
+      "errors": []
+    },
+    {
+      "path": "midi/z3803-drumstep-groove-sketches-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "49056056b24ae335b5a6a369818ea87f836199c1ea9f1f68eaacca8d64145b95",
+      "errors": []
+    },
+    {
+      "path": "midi/z3803-drumstep-groove-sketches-contrast/z3803-drumstep-groove-sketches-contrast-combined.mid",
+      "bytes": 5676,
+      "sha256": "08f707b533025d251320db2db947be5a2ae6cea4f3960628bc259b91cad8fd85",
+      "errors": []
+    },
+    {
+      "path": "midi/z3804-drumstep-groove-sketches-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "6d9d86a50c5d93069d6325fe4a75c4d9a869598d9b852bd0d6c7c917ca575e64",
+      "errors": []
+    },
+    {
+      "path": "midi/z3804-drumstep-groove-sketches-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "d331c252e11c5348a31ec732f1a73580935a71c93cd8d864cdefc343e13fe5af",
+      "errors": []
+    },
+    {
+      "path": "midi/z3804-drumstep-groove-sketches-return/drums.mid",
+      "bytes": 2674,
+      "sha256": "dcc45e72bdc353330079e29229c6e8d7ae7d3c97efe04a11e4541c1ec62f6b49",
+      "errors": []
+    },
+    {
+      "path": "midi/z3804-drumstep-groove-sketches-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "f713c4e0e42e1c7ad6ed7128e376d5d39415774b5ebd0b6f90890454bc7b964e",
+      "errors": []
+    },
+    {
+      "path": "midi/z3804-drumstep-groove-sketches-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "489df3d5dbc7733fec8ef7712616b3ac83847c2f4e9b8e3f7b5a64d83a942b27",
+      "errors": []
+    },
+    {
+      "path": "midi/z3804-drumstep-groove-sketches-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "cec27a8e728ad75e6201813272d69a7ff3eab6108fb746503b5972dcfa353030",
+      "errors": []
+    },
+    {
+      "path": "midi/z3804-drumstep-groove-sketches-return/z3804-drumstep-groove-sketches-return-combined.mid",
+      "bytes": 5676,
+      "sha256": "a13299c67e1f210e9efd9d6a30d56de552a971afadb6fa4c3db1f0d72b4d52e2",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

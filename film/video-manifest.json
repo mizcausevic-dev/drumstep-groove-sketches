@@ -1,0 +1,26 @@
+{
+  "title": "Drumstep Groove Sketches",
+  "study": "z3801",
+  "bpm": 140,
+  "source_audio": "preview/drumstep-groove-sketches-simple-synth-preview.mp3",
+  "source_audio_sha256": "a205e29467c2fc7e7a962485e1c27b64b8f2c877d7c39c3262b5bb19fc00afd0",
+  "source_midi": "midi/z3801-drumstep-groove-sketches-opening/z3801-drumstep-groove-sketches-opening-combined.mid",
+  "source_midi_sha256": "45352cd24d334954336a08305302fef8a1a7b6001941ec803a5db2838c9a0e75",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "68ad697d22f24b6dca22b15395fa1e94a28ce386e2e492f90e4ca9c49d6407cb",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "40668d89ebc0868143c4e7ba4ce7c7843a6aee9842bc9123485a9f079529cd54",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "4bb053ebc1ec323cb5a075782ef19b935e0aac7260445abc99bc4341326fd26e",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
