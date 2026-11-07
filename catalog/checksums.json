@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/drumstep-groove-sketches-midi.zip",
-      "bytes": 31693,
-      "sha256": "d37ef646ebf4153df5af94a4ab520320878177c6d8d7939116fbec8d23442a13"
+      "bytes": 32680,
+      "sha256": "56abd21eed307a061a1b8b150b430c9fe645a766707e8206af28b054d0f1fdd1"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10020,
-      "sha256": "5c5f2064599275c66ec8a43384f36d7bee4a4e2965b4069d3e79f701eac9cf25"
+      "bytes": 10210,
+      "sha256": "8b5b302b72f7da66cc6ed61be2c7bc0f69526bacfc3418f4dfdb0e7366688be3"
     },
     {
       "path": "midi/z3801-drumstep-groove-sketches-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "a13299c67e1f210e9efd9d6a30d56de552a971afadb6fa4c3db1f0d72b4d52e2"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/drumstep-groove-sketches-simple-synth-preview.mp3",
       "bytes": 1330408,
       "sha256": "a205e29467c2fc7e7a962485e1c27b64b8f2c877d7c39c3262b5bb19fc00afd0"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3994,
-      "sha256": "47d33cac7c0a4cdf98319fc5dc1df6c37306419e77eb0b08be2743f26796f229"
+      "bytes": 4109,
+      "sha256": "3eb681c3e5e0a60702250e9fe85b2528af34d6be0f70dc741ea9d6d0874baa0f"
     },
     {
       "path": "social/instagram/caption.txt",
